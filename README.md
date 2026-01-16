@@ -17,7 +17,11 @@ This is a simple _React + Vite_ project that displays a dynamic colored clock wi
    ```
    npm run dev
    ```
-5. Open the local host provided in a browser.
+5. Open the local host provided in a browser then reload constantly to update the time.
+
+Sould look like this;
+
+![An image of a dynamic colored clock](src/assets/dynamic-clock-2026-01-16_15-09.png)
 
 ## Author
 **Jim Ochieng**
